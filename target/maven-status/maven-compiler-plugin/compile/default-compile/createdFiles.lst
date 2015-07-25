@@ -1,0 +1,6 @@
+com/edsoft/mongoextv/db/Run.class
+com/edsoft/mongoextv/db/Connector.class
+com/edsoft/mongoextv/db/DBConnect.class
+com/edsoft/mongoextv/rest/RestApp.class
+com/edsoft/mongoextv/db/Main.class
+com/edsoft/mongoextv/rest/MongoResource.class
